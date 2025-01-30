@@ -1,0 +1,7 @@
+jumbalaya Project GitHub 
+
+https://github.com/Angecalais97/handson/tree/main
+
+backing up Jenkins
+
+back up Jenkins home directory in s3 bucket and restore it in a new Jenkins from s3.

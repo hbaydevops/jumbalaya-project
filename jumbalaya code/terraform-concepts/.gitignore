@@ -1,0 +1,15 @@
+# Terraform state files and directories
+*.tfstate
+*.tfstate.*
+**/.terraform/*
+*/**/.terraform
+.terraform/*
+.terraform
+.terraform.lock.hcl
+
+# Terragrunt files and directories
+*/**/.terragrunt-cache/
+*/**/.terraform.lock/
+*/**/.terragrunt/
+
+# echo ".terraform/" >> .gitignore

@@ -1,0 +1,7 @@
+jambalaya: Jenkins
+
+Jenkins URL
+http://3.217.88.80:8080/login?from=%2F
+
+jenkins-master/agent config
+https://app.eraser.io/workspace/jFSzrG2q1Ay7olHL0wsi

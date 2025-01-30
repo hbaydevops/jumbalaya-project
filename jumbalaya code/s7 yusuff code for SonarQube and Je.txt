@@ -1,0 +1,3 @@
+s7 yusuff code for SonarQube and Jenkins
+
+https://github.com/DEL-ORG/s7yusuff-demo-project/blob/main/modules/EC2/instance.tf
